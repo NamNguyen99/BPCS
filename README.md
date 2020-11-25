@@ -1,3 +1,3 @@
 # BPCS
-run embed_message.rb first
-then run extract_message.rb
+Run `embed_message.rb` first
+Then run `extract_message.rb`
